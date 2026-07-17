@@ -1,0 +1,350 @@
+mes,producto,categoria,ingresos
+2024-01,Adorno de pared,Decoración,785.66
+2024-01,Alfombra,Decoración,226.69
+2024-01,Aspiradora,Electrodomésticos,663.83
+2024-01,Auriculares,Electrónica,1142.35
+2024-01,Batidora,Electrodomésticos,414.88
+2024-01,Cafetera,Electrodomésticos,902.47
+2024-01,Candelabro,Decoración,295.91
+2024-01,Consola de videojuegos,Electrónica,788.42
+2024-01,Cortinas,Decoración,620.44
+2024-01,Cuadro decorativo,Decoración,553.17
+2024-01,Cámara digital,Electrónica,708.40
+2024-01,Elementos de cerámica,Decoración,918.47
+2024-01,Espejo decorativo,Decoración,1157.74
+2024-01,Freidora eléctrica,Electrodomésticos,659.86
+2024-01,Heladera,Electrodomésticos,223.84
+2024-01,Horno eléctrico,Electrodomésticos,524.82
+2024-01,Jarrón decorativo,Decoración,759.16
+2024-01,Laptop,Electrónica,270.72
+2024-01,Lavadora,Electrodomésticos,868.77
+2024-01,Lámpara de mesa,Decoración,1205.83
+2024-01,Microondas,Electrodomésticos,152.89
+2024-01,Parlantes Bluetooth,Electrónica,371.39
+2024-01,Plancha de vapor,Electrodomésticos,793.17
+2024-01,Proyector,Electrónica,541.31
+2024-01,Rincón de plantas,Decoración,860.05
+2024-01,Secadora,Electrodomésticos,803.26
+2024-01,SmartWatch,Electrónica,817.87
+2024-01,Smartphone,Electrónica,1053.05
+2024-01,Tablet,Electrónica,431.12
+2024-01,Televisor,Electrónica,581.80
+2024-02,Adorno de pared,Decoración,684.01
+2024-02,Alfombra,Decoración,573.98
+2024-02,Aspiradora,Electrodomésticos,524.67
+2024-02,Auriculares,Electrónica,1055.81
+2024-02,Batidora,Electrodomésticos,491.03
+2024-02,Cafetera,Electrodomésticos,1344.38
+2024-02,Consola de videojuegos,Electrónica,376.79
+2024-02,Cortinas,Decoración,519.57
+2024-02,Cuadro decorativo,Decoración,1327.35
+2024-02,Cámara digital,Electrónica,637.90
+2024-02,Elementos de cerámica,Decoración,807.55
+2024-02,Espejo decorativo,Decoración,556.48
+2024-02,Freidora eléctrica,Electrodomésticos,632.82
+2024-02,Horno eléctrico,Electrodomésticos,31.50
+2024-02,Jarrón decorativo,Decoración,462.90
+2024-02,Laptop,Electrónica,576.21
+2024-02,Lavadora,Electrodomésticos,492.52
+2024-02,Lámpara de mesa,Decoración,1270.55
+2024-02,Microondas,Electrodomésticos,775.52
+2024-02,Parlantes Bluetooth,Electrónica,424.34
+2024-02,Plancha de vapor,Electrodomésticos,764.97
+2024-02,Proyector,Electrónica,741.41
+2024-02,Rincón de plantas,Decoración,638.58
+2024-02,Secadora,Electrodomésticos,543.33
+2024-02,SmartWatch,Electrónica,742.13
+2024-02,Smartphone,Electrónica,810.14
+2024-02,Tablet,Electrónica,261.40
+2024-02,Televisor,Electrónica,510.78
+2024-03,Adorno de pared,Decoración,661.50
+2024-03,Alfombra,Decoración,919.72
+2024-03,Aspiradora,Electrodomésticos,554.04
+2024-03,Auriculares,Electrónica,925.67
+2024-03,Batidora,Electrodomésticos,574.28
+2024-03,Cafetera,Electrodomésticos,753.30
+2024-03,Consola de videojuegos,Electrónica,1032.49
+2024-03,Cortinas,Decoración,812.06
+2024-03,Cuadro decorativo,Decoración,407.55
+2024-03,Cámara digital,Electrónica,670.91
+2024-03,Elementos de cerámica,Decoración,520.37
+2024-03,Espejo decorativo,Decoración,453.16
+2024-03,Freidora eléctrica,Electrodomésticos,1087.13
+2024-03,Heladera,Electrodomésticos,484.52
+2024-03,Horno eléctrico,Electrodomésticos,764.12
+2024-03,Jarrón decorativo,Decoración,1078.32
+2024-03,Laptop,Electrónica,493.83
+2024-03,Lavadora,Electrodomésticos,504.40
+2024-03,Lámpara de mesa,Decoración,1142.24
+2024-03,Microondas,Electrodomésticos,838.92
+2024-03,Parlantes Bluetooth,Electrónica,279.71
+2024-03,Plancha de vapor,Electrodomésticos,649.63
+2024-03,Proyector,Electrónica,683.78
+2024-03,Rincón de plantas,Decoración,575.24
+2024-03,Secadora,Electrodomésticos,262.30
+2024-03,SmartWatch,Electrónica,679.54
+2024-03,Smartphone,Electrónica,1077.04
+2024-03,Tablet,Electrónica,165.92
+2024-03,Televisor,Electrónica,1027.24
+2024-04,Adorno de pared,Decoración,405.23
+2024-04,Alfombra,Decoración,882.76
+2024-04,Aspiradora,Electrodomésticos,780.12
+2024-04,Auriculares,Electrónica,1299.56
+2024-04,Batidora,Electrodomésticos,782.11
+2024-04,Cafetera,Electrodomésticos,937.41
+2024-04,Consola de videojuegos,Electrónica,529.26
+2024-04,Cortinas,Decoración,590.69
+2024-04,Cuadro decorativo,Decoración,467.99
+2024-04,Cámara digital,Electrónica,673.87
+2024-04,Elementos de cerámica,Decoración,442.34
+2024-04,Espejo decorativo,Decoración,516.09
+2024-04,Freidora eléctrica,Electrodomésticos,822.51
+2024-04,Heladera,Electrodomésticos,444.07
+2024-04,Horno eléctrico,Electrodomésticos,648.18
+2024-04,Jarrón decorativo,Decoración,618.87
+2024-04,Laptop,Electrónica,603.30
+2024-04,Lavadora,Electrodomésticos,492.30
+2024-04,Lámpara de mesa,Decoración,2243.68
+2024-04,Microondas,Electrodomésticos,554.13
+2024-04,Parlantes Bluetooth,Electrónica,504.06
+2024-04,Plancha de vapor,Electrodomésticos,755.98
+2024-04,Proyector,Electrónica,684.16
+2024-04,Rincón de plantas,Decoración,776.49
+2024-04,Secadora,Electrodomésticos,880.58
+2024-04,SmartWatch,Electrónica,506.13
+2024-04,Smartphone,Electrónica,588.95
+2024-04,Tablet,Electrónica,530.04
+2024-04,Televisor,Electrónica,536.83
+2024-05,Adorno de pared,Decoración,700.64
+2024-05,Alfombra,Decoración,629.73
+2024-05,Aspiradora,Electrodomésticos,477.18
+2024-05,Auriculares,Electrónica,975.60
+2024-05,Batidora,Electrodomésticos,583.05
+2024-05,Cafetera,Electrodomésticos,1291.85
+2024-05,Consola de videojuegos,Electrónica,424.44
+2024-05,Cortinas,Decoración,1024.41
+2024-05,Cuadro decorativo,Decoración,858.55
+2024-05,Cámara digital,Electrónica,475.52
+2024-05,Elementos de cerámica,Decoración,535.34
+2024-05,Espejo decorativo,Decoración,596.63
+2024-05,Freidora eléctrica,Electrodomésticos,462.88
+2024-05,Heladera,Electrodomésticos,776.21
+2024-05,Horno eléctrico,Electrodomésticos,1026.12
+2024-05,Jarrón decorativo,Decoración,598.49
+2024-05,Laptop,Electrónica,617.27
+2024-05,Lavadora,Electrodomésticos,710.38
+2024-05,Lámpara de mesa,Decoración,1078.87
+2024-05,Microondas,Electrodomésticos,803.41
+2024-05,Parlantes Bluetooth,Electrónica,1033.09
+2024-05,Plancha de vapor,Electrodomésticos,530.74
+2024-05,Proyector,Electrónica,486.62
+2024-05,Rincón de plantas,Decoración,687.00
+2024-05,Secadora,Electrodomésticos,1414.82
+2024-05,SmartWatch,Electrónica,721.32
+2024-05,Smartphone,Electrónica,670.60
+2024-05,Tablet,Electrónica,216.32
+2024-05,Televisor,Electrónica,1038.79
+2024-06,Adorno de pared,Decoración,877.17
+2024-06,Alfombra,Decoración,456.49
+2024-06,Aspiradora,Electrodomésticos,522.78
+2024-06,Auriculares,Electrónica,595.47
+2024-06,Batidora,Electrodomésticos,541.20
+2024-06,Cafetera,Electrodomésticos,616.88
+2024-06,Consola de videojuegos,Electrónica,514.34
+2024-06,Cortinas,Decoración,933.67
+2024-06,Cuadro decorativo,Decoración,311.18
+2024-06,Cámara digital,Electrónica,640.01
+2024-06,Elementos de cerámica,Decoración,585.39
+2024-06,Espejo decorativo,Decoración,667.62
+2024-06,Freidora eléctrica,Electrodomésticos,330.06
+2024-06,Heladera,Electrodomésticos,266.82
+2024-06,Horno eléctrico,Electrodomésticos,631.05
+2024-06,Jarrón decorativo,Decoración,535.08
+2024-06,Laptop,Electrónica,618.78
+2024-06,Lavadora,Electrodomésticos,387.17
+2024-06,Lámpara de mesa,Decoración,855.96
+2024-06,Microondas,Electrodomésticos,1100.44
+2024-06,Parlantes Bluetooth,Electrónica,753.57
+2024-06,Plancha de vapor,Electrodomésticos,701.53
+2024-06,Proyector,Electrónica,476.21
+2024-06,Rincón de plantas,Decoración,458.34
+2024-06,Secadora,Electrodomésticos,418.65
+2024-06,SmartWatch,Electrónica,617.69
+2024-06,Smartphone,Electrónica,123.74
+2024-06,Tablet,Electrónica,911.83
+2024-06,Televisor,Electrónica,385.89
+2024-07,Adorno de pared,Decoración,452.17
+2024-07,Alfombra,Decoración,845.46
+2024-07,Aspiradora,Electrodomésticos,697.19
+2024-07,Auriculares,Electrónica,1360.43
+2024-07,Batidora,Electrodomésticos,455.29
+2024-07,Cafetera,Electrodomésticos,421.08
+2024-07,Candelabro,Decoración,379.46
+2024-07,Consola de videojuegos,Electrónica,694.33
+2024-07,Cortinas,Decoración,470.09
+2024-07,Cuadro decorativo,Decoración,356.93
+2024-07,Cámara digital,Electrónica,447.54
+2024-07,Elementos de cerámica,Decoración,440.50
+2024-07,Espejo decorativo,Decoración,748.91
+2024-07,Freidora eléctrica,Electrodomésticos,437.56
+2024-07,Horno eléctrico,Electrodomésticos,910.08
+2024-07,Jarrón decorativo,Decoración,326.08
+2024-07,Laptop,Electrónica,603.72
+2024-07,Lavadora,Electrodomésticos,1156.32
+2024-07,Lámpara de mesa,Decoración,1015.92
+2024-07,Microondas,Electrodomésticos,1309.84
+2024-07,Parlantes Bluetooth,Electrónica,612.10
+2024-07,Plancha de vapor,Electrodomésticos,304.36
+2024-07,Proyector,Electrónica,575.68
+2024-07,Rincón de plantas,Decoración,451.82
+2024-07,Secadora,Electrodomésticos,590.93
+2024-07,SmartWatch,Electrónica,766.18
+2024-07,Smartphone,Electrónica,770.42
+2024-07,Tablet,Electrónica,171.52
+2024-07,Televisor,Electrónica,412.21
+2024-08,Adorno de pared,Decoración,895.67
+2024-08,Alfombra,Decoración,591.01
+2024-08,Aspiradora,Electrodomésticos,833.67
+2024-08,Auriculares,Electrónica,628.05
+2024-08,Batidora,Electrodomésticos,815.79
+2024-08,Cafetera,Electrodomésticos,476.10
+2024-08,Candelabro,Decoración,698.17
+2024-08,Consola de videojuegos,Electrónica,766.52
+2024-08,Cortinas,Decoración,422.35
+2024-08,Cuadro decorativo,Decoración,477.39
+2024-08,Cámara digital,Electrónica,715.13
+2024-08,Elementos de cerámica,Decoración,328.18
+2024-08,Espejo decorativo,Decoración,736.99
+2024-08,Freidora eléctrica,Electrodomésticos,514.63
+2024-08,Horno eléctrico,Electrodomésticos,529.70
+2024-08,Jarrón decorativo,Decoración,615.38
+2024-08,Laptop,Electrónica,626.75
+2024-08,Lavadora,Electrodomésticos,1006.18
+2024-08,Lámpara de mesa,Decoración,539.71
+2024-08,Microondas,Electrodomésticos,1623.63
+2024-08,Parlantes Bluetooth,Electrónica,666.03
+2024-08,Plancha de vapor,Electrodomésticos,483.65
+2024-08,Proyector,Electrónica,697.13
+2024-08,Rincón de plantas,Decoración,709.90
+2024-08,Secadora,Electrodomésticos,264.31
+2024-08,SmartWatch,Electrónica,523.83
+2024-08,Smartphone,Electrónica,466.53
+2024-08,Tablet,Electrónica,465.75
+2024-08,Televisor,Electrónica,1108.82
+2024-09,Adorno de pared,Decoración,530.47
+2024-09,Alfombra,Decoración,517.17
+2024-09,Aspiradora,Electrodomésticos,607.78
+2024-09,Auriculares,Electrónica,899.49
+2024-09,Batidora,Electrodomésticos,714.32
+2024-09,Cafetera,Electrodomésticos,834.75
+2024-09,Candelabro,Decoración,51.01
+2024-09,Consola de videojuegos,Electrónica,861.44
+2024-09,Cortinas,Decoración,478.31
+2024-09,Cuadro decorativo,Decoración,779.82
+2024-09,Cámara digital,Electrónica,457.69
+2024-09,Elementos de cerámica,Decoración,754.24
+2024-09,Espejo decorativo,Decoración,597.86
+2024-09,Freidora eléctrica,Electrodomésticos,770.24
+2024-09,Heladera,Electrodomésticos,276.97
+2024-09,Horno eléctrico,Electrodomésticos,246.12
+2024-09,Jarrón decorativo,Decoración,787.90
+2024-09,Laptop,Electrónica,1120.69
+2024-09,Lavadora,Electrodomésticos,287.32
+2024-09,Lámpara de mesa,Decoración,767.04
+2024-09,Microondas,Electrodomésticos,1014.08
+2024-09,Parlantes Bluetooth,Electrónica,654.72
+2024-09,Plancha de vapor,Electrodomésticos,416.37
+2024-09,Proyector,Electrónica,542.14
+2024-09,Rincón de plantas,Decoración,665.82
+2024-09,Secadora,Electrodomésticos,400.37
+2024-09,SmartWatch,Electrónica,381.14
+2024-09,Smartphone,Electrónica,547.38
+2024-09,Tablet,Electrónica,523.46
+2024-09,Televisor,Electrónica,307.36
+2024-10,Adorno de pared,Decoración,703.01
+2024-10,Alfombra,Decoración,387.86
+2024-10,Aspiradora,Electrodomésticos,915.12
+2024-10,Auriculares,Electrónica,731.59
+2024-10,Batidora,Electrodomésticos,764.21
+2024-10,Cafetera,Electrodomésticos,383.16
+2024-10,Candelabro,Decoración,365.74
+2024-10,Consola de videojuegos,Electrónica,505.13
+2024-10,Cortinas,Decoración,482.45
+2024-10,Cuadro decorativo,Decoración,544.62
+2024-10,Cámara digital,Electrónica,538.91
+2024-10,Elementos de cerámica,Decoración,533.76
+2024-10,Espejo decorativo,Decoración,486.77
+2024-10,Freidora eléctrica,Electrodomésticos,438.34
+2024-10,Heladera,Electrodomésticos,350.91
+2024-10,Horno eléctrico,Electrodomésticos,743.96
+2024-10,Jarrón decorativo,Decoración,677.05
+2024-10,Laptop,Electrónica,767.54
+2024-10,Lavadora,Electrodomésticos,690.06
+2024-10,Lámpara de mesa,Decoración,315.73
+2024-10,Microondas,Electrodomésticos,722.71
+2024-10,Parlantes Bluetooth,Electrónica,837.09
+2024-10,Plancha de vapor,Electrodomésticos,435.53
+2024-10,Proyector,Electrónica,438.47
+2024-10,Rincón de plantas,Decoración,731.57
+2024-10,Secadora,Electrodomésticos,551.61
+2024-10,SmartWatch,Electrónica,1040.55
+2024-10,Smartphone,Electrónica,1041.92
+2024-10,Tablet,Electrónica,42.93
+2024-10,Televisor,Electrónica,663.93
+2024-11,Adorno de pared,Decoración,304.05
+2024-11,Alfombra,Decoración,797.66
+2024-11,Aspiradora,Electrodomésticos,449.48
+2024-11,Auriculares,Electrónica,751.36
+2024-11,Batidora,Electrodomésticos,793.74
+2024-11,Cafetera,Electrodomésticos,732.84
+2024-11,Consola de videojuegos,Electrónica,476.89
+2024-11,Cortinas,Decoración,522.34
+2024-11,Cuadro decorativo,Decoración,721.69
+2024-11,Cámara digital,Electrónica,628.01
+2024-11,Elementos de cerámica,Decoración,570.65
+2024-11,Espejo decorativo,Decoración,486.20
+2024-11,Freidora eléctrica,Electrodomésticos,1107.02
+2024-11,Heladera,Electrodomésticos,425.52
+2024-11,Horno eléctrico,Electrodomésticos,393.75
+2024-11,Jarrón decorativo,Decoración,768.55
+2024-11,Laptop,Electrónica,495.55
+2024-11,Lavadora,Electrodomésticos,420.27
+2024-11,Lámpara de mesa,Decoración,1317.18
+2024-11,Microondas,Electrodomésticos,893.82
+2024-11,Parlantes Bluetooth,Electrónica,731.96
+2024-11,Plancha de vapor,Electrodomésticos,712.98
+2024-11,Proyector,Electrónica,788.30
+2024-11,Rincón de plantas,Decoración,484.32
+2024-11,Secadora,Electrodomésticos,478.74
+2024-11,SmartWatch,Electrónica,463.78
+2024-11,Smartphone,Electrónica,381.49
+2024-11,Televisor,Electrónica,538.44
+2024-12,Adorno de pared,Decoración,610.20
+2024-12,Alfombra,Decoración,581.30
+2024-12,Aspiradora,Electrodomésticos,718.88
+2024-12,Auriculares,Electrónica,545.91
+2024-12,Batidora,Electrodomésticos,823.82
+2024-12,Cafetera,Electrodomésticos,554.23
+2024-12,Consola de videojuegos,Electrónica,588.29
+2024-12,Cortinas,Decoración,488.61
+2024-12,Cuadro decorativo,Decoración,651.56
+2024-12,Cámara digital,Electrónica,607.18
+2024-12,Elementos de cerámica,Decoración,652.75
+2024-12,Espejo decorativo,Decoración,561.88
+2024-12,Freidora eléctrica,Electrodomésticos,562.08
+2024-12,Heladera,Electrodomésticos,309.27
+2024-12,Horno eléctrico,Electrodomésticos,1119.48
+2024-12,Jarrón decorativo,Decoración,225.62
+2024-12,Laptop,Electrónica,738.26
+2024-12,Lavadora,Electrodomésticos,479.65
+2024-12,Lámpara de mesa,Decoración,1046.12
+2024-12,Microondas,Electrodomésticos,899.37
+2024-12,Parlantes Bluetooth,Electrónica,343.13
+2024-12,Plancha de vapor,Electrodomésticos,755.01
+2024-12,Proyector,Electrónica,738.15
+2024-12,Rincón de plantas,Decoración,518.08
+2024-12,Secadora,Electrodomésticos,724.99
+2024-12,SmartWatch,Electrónica,293.42
+2024-12,Smartphone,Electrónica,689.98
+2024-12,Tablet,Electrónica,419.90
+2024-12,Televisor,Electrónica,269.44
