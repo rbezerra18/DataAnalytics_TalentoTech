@@ -1,0 +1,31 @@
+producto,categoria,ingresos,unidades,operaciones,costo_marketing,campanas,canales,ratio_ingreso_costo,alto_rendimiento
+Lámpara de mesa,Decoración,12798.83,1112,176,15.93,3,3,803.44,True
+Auriculares,Electrónica,10911.29,958,143,15.24,3,3,715.96,True
+Microondas,Electrodomésticos,10688.76,912,135,14.19,3,3,753.26,True
+Cafetera,Electrodomésticos,9248.45,765,117,18.16,3,3,509.28,True
+Smartphone,Electrónica,8221.24,665,101,15.80,3,3,520.33,True
+Freidora eléctrica,Electrodomésticos,7825.13,630,100,13.56,3,3,577.07,True
+Batidora,Electrodomésticos,7753.72,672,100,15.28,3,3,507.44,True
+Aspiradora,Electrodomésticos,7744.74,651,100,16.46,3,3,470.52,True
+Adorno de pared,Decoración,7609.78,633,100,14.05,3,3,541.62,True
+Horno eléctrico,Electrodomésticos,7568.88,633,100,13.89,3,3,544.92,False
+Espejo decorativo,Decoración,7566.33,635,100,14.89,3,3,508.15,False
+Consola de videojuegos,Electrónica,7558.34,623,99,12.77,3,3,591.88,False
+Rincón de plantas,Decoración,7557.21,691,101,16.45,3,3,459.40,False
+SmartWatch,Electrónica,7553.58,620,100,14.50,3,3,520.94,False
+Laptop,Electrónica,7532.62,617,100,15.19,3,3,495.89,False
+Lavadora,Electrodomésticos,7495.34,671,100,11.85,3,3,632.52,False
+Cuadro decorativo,Decoración,7457.80,726,100,15.85,3,3,470.52,False
+Jarrón decorativo,Decoración,7453.40,672,100,13.27,3,3,561.67,False
+Alfombra,Decoración,7409.83,615,100,17.46,3,3,424.39,False
+Proyector,Electrónica,7393.36,626,99,12.47,3,3,592.89,False
+Televisor,Electrónica,7381.53,632,100,13.13,3,3,562.19,False
+Cortinas,Decoración,7364.99,610,100,17.36,3,3,424.25,False
+Secadora,Electrodomésticos,7333.89,696,100,14.59,3,3,502.67,False
+Plancha de vapor,Electrodomésticos,7303.92,632,100,14.12,3,3,517.27,False
+Parlantes Bluetooth,Electrónica,7211.19,660,98,13.37,3,3,539.36,False
+Cámara digital,Electrónica,7201.07,638,100,16.40,3,3,439.09,False
+Elementos de cerámica,Decoración,7089.54,636,99,16.87,3,3,420.25,False
+Tablet,Electrónica,4140.19,374,58,12.72,3,3,325.49,False
+Heladera,Electrodomésticos,3558.13,330,48,13.11,3,3,271.41,False
+Candelabro,Decoración,1790.29,160,24,14.65,3,3,122.20,False

@@ -1,0 +1,12 @@
+# Arquivos gerados localmente
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Materiais de aula não publicados neste projeto
+CLASE *.pdf
+Clases practicas/
+Clases teoricas/
+Cuestionarios/
+Taller pre entrega/
+Test_grafos/
