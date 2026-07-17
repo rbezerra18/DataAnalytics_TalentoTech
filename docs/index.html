@@ -26,7 +26,14 @@
       <article class="card"><span>Producto líder</span><div id="producto" class="metric">—</div></article>
       <article class="card"><span>Productos de alto rendimiento</span><div id="alto" class="metric">—</div></article>
     </section>
-    <section class="charts"><div id="ranking" class="chart"></div><div id="categoria" class="chart"></div></section>
+    <section class="charts">
+      <div id="ranking" class="chart"></div>
+      <div id="categoria" class="chart"></div>
+      <div id="unidades" class="chart"></div>
+      <div id="marketing" class="chart"></div>
+      <div id="relacion" class="chart"></div>
+      <div id="rendimiento" class="chart"></div>
+    </section>
   </main>
   <footer>Fuente: dataset_final_consolidado.csv generado por el notebook del proyecto.</footer>
   <script>
@@ -45,9 +52,15 @@
       document.querySelector('#producto').textContent = lider.producto;
       document.querySelector('#alto').textContent = datos.filter(d=>d.alto_rendimiento).length;
       document.querySelector('#status').style.display='none';
-      Plotly.newPlot('ranking',[{x:datos.map(d=>d.ingresos),y:datos.map(d=>d.producto),type:'bar',orientation:'h',marker:{color:'#2563eb'}}],{title:'Ingresos por producto',margin:{l:160}} ,{responsive:true});
+      const top10 = [...datos].sort((a,b)=>b.ingresos-a.ingresos).slice(0,10).reverse();
+      Plotly.newPlot('ranking',[{x:top10.map(d=>d.ingresos),y:top10.map(d=>d.producto),type:'bar',orientation:'h',marker:{color:'#2563eb'}}],{title:'Top 10 productos por ingresos',margin:{l:160},xaxis:{tickprefix:'$'}} ,{responsive:true});
       const categorias = [...new Set(datos.map(d=>d.categoria))];
       Plotly.newPlot('categoria',[{x:categorias,y:categorias.map(c=>datos.filter(d=>d.categoria===c).reduce((s,d)=>s+d.ingresos,0)),type:'bar',marker:{color:'#16a34a'}}],{title:'Ingresos por categoría',yaxis:{tickprefix:'$'}},{responsive:true});
+      Plotly.newPlot('unidades',[{x:top10.map(d=>d.unidades),y:top10.map(d=>d.producto),type:'bar',orientation:'h',marker:{color:'#f97316'}}],{title:'Unidades vendidas — Top 10 por ingresos',margin:{l:160},xaxis:{title:'Unidades'}},{responsive:true});
+      Plotly.newPlot('marketing',[{x:top10.map(d=>d.producto),y:top10.map(d=>+d.costo_marketing),type:'bar',marker:{color:'#7c3aed'}}],{title:'Inversión de marketing — Top 10 productos',yaxis:{title:'Costo ($)',tickprefix:'$'},margin:{b:130}},{responsive:true});
+      Plotly.newPlot('relacion',[{x:datos.map(d=>+d.costo_marketing),y:datos.map(d=>d.ingresos),text:datos.map(d=>d.producto),mode:'markers',type:'scatter',marker:{size:datos.map(d=>Math.max(9,Math.sqrt(+d.unidades)*4)),color:datos.map(d=>d.alto_rendimiento ? '#16a34a' : '#94a3b8'),opacity:.8}}],{title:'Relación entre marketing e ingresos',xaxis:{title:'Costo de marketing ($)',tickprefix:'$'},yaxis:{title:'Ingresos ($)',tickprefix:'$'}},{responsive:true});
+      const altos = datos.filter(d=>d.alto_rendimiento);
+      Plotly.newPlot('rendimiento',[{labels:['Alto rendimiento','Resto de productos'],values:[altos.length,datos.length-altos.length],type:'pie',hole:.48,marker:{colors:['#2563eb','#cbd5e1']},textinfo:'label+value'}],{title:'Distribución de productos por rendimiento'},{responsive:true});
     }).catch(() => document.querySelector('#status').innerHTML = '<strong>Falta el archivo de datos.</strong> Ejecute el notebook en Colab y copie <code>dataset_final_consolidado.csv</code> en <code>docs/data/</code>.');
   </script>
 </body>
